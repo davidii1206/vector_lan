@@ -404,6 +404,10 @@ private:
                         connectionEvents.push(connEvent);
                         break;
                     }
+                    case ENET_EVENT_TYPE_NONE:
+                    case ENET_EVENT_TYPE_DISCONNECT_TIMEOUT:
+                    default:
+                        break;
                 }
             }
         }

@@ -87,9 +87,17 @@ add_executable(vector
 src/main.cpp
 src/app.h
 src/app.cpp
+src/ui/screens.h
+src/ui/screens.cpp
 src/Networking/enet_implementation.cpp
 src/context.h
 src/Networking/Packets.h
+src/client.cpp
+src/client.h
+src/server.h
+src/player.h
+src/server.cpp
+src/player.cpp
 )
 
 target_include_directories(vector PRIVATE ${CMAKE_CURRENT_SOURCE_DIR}/src)

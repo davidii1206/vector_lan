@@ -49,9 +49,33 @@
 },
 {
   "directory": "/home/david/Dokumente/coding_projects/vector_lan/build",
+  "command": "/usr/bin/clang++ -DFMT_SHARED -DGRAPHICS_API_OPENGL_33 -DPLATFORM_DESKTOP -DSPDLOG_COMPILED_LIB -DSPDLOG_FMT_EXTERNAL -DSPDLOG_SHARED_LIB -I/home/david/Dokumente/coding_projects/vector_lan/src -I/home/david/Dokumente/coding_projects/vector_lan/build/_deps/raylib-src/src -I/home/david/Dokumente/coding_projects/vector_lan/build/_deps/imgui-src -I/home/david/Dokumente/coding_projects/vector_lan/build/_deps/rlimgui-src -g -std=gnu++17 -o CMakeFiles/vector.dir/src/ui/screens.cpp.o -c /home/david/Dokumente/coding_projects/vector_lan/src/ui/screens.cpp",
+  "file": "/home/david/Dokumente/coding_projects/vector_lan/src/ui/screens.cpp",
+  "output": "/home/david/Dokumente/coding_projects/vector_lan/build/CMakeFiles/vector.dir/src/ui/screens.cpp.o"
+},
+{
+  "directory": "/home/david/Dokumente/coding_projects/vector_lan/build",
   "command": "/usr/bin/clang++ -DFMT_SHARED -DGRAPHICS_API_OPENGL_33 -DPLATFORM_DESKTOP -DSPDLOG_COMPILED_LIB -DSPDLOG_FMT_EXTERNAL -DSPDLOG_SHARED_LIB -I/home/david/Dokumente/coding_projects/vector_lan/src -I/home/david/Dokumente/coding_projects/vector_lan/build/_deps/raylib-src/src -I/home/david/Dokumente/coding_projects/vector_lan/build/_deps/imgui-src -I/home/david/Dokumente/coding_projects/vector_lan/build/_deps/rlimgui-src -g -std=gnu++17 -o CMakeFiles/vector.dir/src/Networking/enet_implementation.cpp.o -c /home/david/Dokumente/coding_projects/vector_lan/src/Networking/enet_implementation.cpp",
   "file": "/home/david/Dokumente/coding_projects/vector_lan/src/Networking/enet_implementation.cpp",
   "output": "/home/david/Dokumente/coding_projects/vector_lan/build/CMakeFiles/vector.dir/src/Networking/enet_implementation.cpp.o"
+},
+{
+  "directory": "/home/david/Dokumente/coding_projects/vector_lan/build",
+  "command": "/usr/bin/clang++ -DFMT_SHARED -DGRAPHICS_API_OPENGL_33 -DPLATFORM_DESKTOP -DSPDLOG_COMPILED_LIB -DSPDLOG_FMT_EXTERNAL -DSPDLOG_SHARED_LIB -I/home/david/Dokumente/coding_projects/vector_lan/src -I/home/david/Dokumente/coding_projects/vector_lan/build/_deps/raylib-src/src -I/home/david/Dokumente/coding_projects/vector_lan/build/_deps/imgui-src -I/home/david/Dokumente/coding_projects/vector_lan/build/_deps/rlimgui-src -g -std=gnu++17 -o CMakeFiles/vector.dir/src/client.cpp.o -c /home/david/Dokumente/coding_projects/vector_lan/src/client.cpp",
+  "file": "/home/david/Dokumente/coding_projects/vector_lan/src/client.cpp",
+  "output": "/home/david/Dokumente/coding_projects/vector_lan/build/CMakeFiles/vector.dir/src/client.cpp.o"
+},
+{
+  "directory": "/home/david/Dokumente/coding_projects/vector_lan/build",
+  "command": "/usr/bin/clang++ -DFMT_SHARED -DGRAPHICS_API_OPENGL_33 -DPLATFORM_DESKTOP -DSPDLOG_COMPILED_LIB -DSPDLOG_FMT_EXTERNAL -DSPDLOG_SHARED_LIB -I/home/david/Dokumente/coding_projects/vector_lan/src -I/home/david/Dokumente/coding_projects/vector_lan/build/_deps/raylib-src/src -I/home/david/Dokumente/coding_projects/vector_lan/build/_deps/imgui-src -I/home/david/Dokumente/coding_projects/vector_lan/build/_deps/rlimgui-src -g -std=gnu++17 -o CMakeFiles/vector.dir/src/server.cpp.o -c /home/david/Dokumente/coding_projects/vector_lan/src/server.cpp",
+  "file": "/home/david/Dokumente/coding_projects/vector_lan/src/server.cpp",
+  "output": "/home/david/Dokumente/coding_projects/vector_lan/build/CMakeFiles/vector.dir/src/server.cpp.o"
+},
+{
+  "directory": "/home/david/Dokumente/coding_projects/vector_lan/build",
+  "command": "/usr/bin/clang++ -DFMT_SHARED -DGRAPHICS_API_OPENGL_33 -DPLATFORM_DESKTOP -DSPDLOG_COMPILED_LIB -DSPDLOG_FMT_EXTERNAL -DSPDLOG_SHARED_LIB -I/home/david/Dokumente/coding_projects/vector_lan/src -I/home/david/Dokumente/coding_projects/vector_lan/build/_deps/raylib-src/src -I/home/david/Dokumente/coding_projects/vector_lan/build/_deps/imgui-src -I/home/david/Dokumente/coding_projects/vector_lan/build/_deps/rlimgui-src -g -std=gnu++17 -o CMakeFiles/vector.dir/src/player.cpp.o -c /home/david/Dokumente/coding_projects/vector_lan/src/player.cpp",
+  "file": "/home/david/Dokumente/coding_projects/vector_lan/src/player.cpp",
+  "output": "/home/david/Dokumente/coding_projects/vector_lan/build/CMakeFiles/vector.dir/src/player.cpp.o"
 },
 {
   "directory": "/home/david/Dokumente/coding_projects/vector_lan/build",
